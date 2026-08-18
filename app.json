@@ -5,6 +5,9 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#1a237e"
+    },
     "android": {
       "package": "com.ajay.trolleyops"
     }
